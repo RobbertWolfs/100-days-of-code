@@ -10,6 +10,7 @@
 
 **Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
 
+
 ### Day 2: January 05, 2017
 
 **Today's Progress**: Further setup of Webpack and VueJS, now using Gulp to start webpack-dev-server. Also improved my project setup a little.
@@ -19,6 +20,7 @@
 **Duration:** 2u30
 
 **Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
+
 
 ### Day 3: January 06, 2017
 
@@ -30,11 +32,22 @@
 
 **Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
 
+
+### Day 4: January 07, 2017
+
+**Today's Progress**: Did some reading on VueJS and did some basic styling like typography and colors.
+
+**Duration:** 1u30
+
+**Thoughts:** Today was more about information than coding.
+
+**Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
+
 ------------
 
 # Logbook Template
 
-### Day ..: Mothn Date, 2017
+### Day ..: Month Date, 2017
 
 **Today's Progress**: 
 
