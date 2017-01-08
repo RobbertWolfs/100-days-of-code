@@ -43,6 +43,21 @@
 
 **Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
 
+
+# Logbook Template
+
+### Day 5: Januari 08, 2017
+
+**Today's Progress**: Did some more styling of my vinyl component.
+
+**Duration:** 1u30
+
+**Thoughts:** Project starts to look nice :) 
+
+**Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
+
+![alt text](http://imgur.com/a/D8Hvf "Layout of vinyl record")
+
 ------------
 
 # Logbook Template
