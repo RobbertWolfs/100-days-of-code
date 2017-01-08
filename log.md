@@ -56,8 +56,6 @@
 
 **Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
 
-![alt text](http://imgur.com/a/D8Hvf "Layout of vinyl record")
-
 ------------
 
 # Logbook Template
