@@ -44,8 +44,6 @@
 **Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
 
 
-# Logbook Template
-
 ### Day 5: Januari 08, 2017
 
 **Today's Progress**: Did some more styling of my vinyl component.
@@ -53,6 +51,17 @@
 **Duration:** 1u30
 
 **Thoughts:** Project starts to look nice :) 
+
+**Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
+
+
+### Day 6: Januari 09, 2017
+
+**Today's Progress**: Today was longer than expected. First part of today I was reading the VueJS docs about components and the vue-router, the second part of today I was trying to implement a basic router to my project.
+
+**Duration:** 2u30
+
+**Thoughts:** Struggled more with the vue-router than expected. Trying to combine the router with vue components was not that easy. Have a basic sample working, but needs to be re-evaluated tomorrow.
 
 **Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
 
