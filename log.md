@@ -65,6 +65,17 @@
 
 **Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
 
+
+### Day 7: Januari 10, 2017
+
+**Today's Progress**: Improved the routing setup. Also played with some vue transition. Had some trouble with CSS today, so I reverted it. So I can try it again tomorrow with a fresh start.
+
+**Duration:** 2u15
+
+**Thoughts:** Still not totally understanding my new routing setup, got some inspiration of [this setup](https://github.com/vuejs/vue-hackernews-2.0). Going to look at this setup again when I have a better understanding of VueJS. Also noticed my css knowledge is not always what it should be. So this also needs some improvement.
+
+**Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
+
 ------------
 
 # Logbook Template
