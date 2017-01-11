@@ -76,6 +76,13 @@
 
 **Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
 
+
+### Day 8: Januari 11, 2017
+
+**Today's Progress**: Today I did not much coding, because I have to give a presentation friday, I decided to give one about the subject I'm learning during this challenge. So today was more about watching videos to fully understand the basics of VueJS, with the mandatory notes and code snippets. So if my notes count I still have "coded" today..
+
+**Thoughts:** Step by step getting to know VueJS better. Giving a presentation about it on Friday will make me understand it even more I guess.
+
 ------------
 
 # Logbook Template
