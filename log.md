@@ -83,6 +83,13 @@
 
 **Thoughts:** Step by step getting to know VueJS better. Giving a presentation about it on Friday will make me understand it even more I guess.
 
+
+### Day 9: Januari 11, 2017
+
+**Today's Progress**: Finished my slides for my presentation tomorrow. Tried my coding samples a couple of times to see if I can fully understand what I'm talking about. 
+
+**Thoughts:** VueJS looks awesome :) 
+
 ------------
 
 # Logbook Template
