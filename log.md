@@ -84,11 +84,22 @@
 **Thoughts:** Step by step getting to know VueJS better. Giving a presentation about it on Friday will make me understand it even more I guess.
 
 
-### Day 9: Januari 11, 2017
+### Day 9: Januari 12, 2017
 
 **Today's Progress**: Finished my slides for my presentation tomorrow. Tried my coding samples a couple of times to see if I can fully understand what I'm talking about. 
 
 **Thoughts:** VueJS looks awesome :) 
+
+
+### Day 10: Januari 14, 2017
+
+**Today's Progress**: Today was a bad day, did not make much progress.. Did some css layout and tried some transitions between two routes. 
+
+**Duration:** 1u30
+
+**Thoughts:** Have to do more research on vuejs routes and transitions.. Going to read more of the documentation tomorrow.. 
+
+**Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
 
 ------------
 
