@@ -102,8 +102,6 @@
 **Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
 
 
-# Logbook Template
-
 ### Day 11: Januari 15, 2017
 
 **Today's Progress**: Played some more with transitions and routings. Got some more progress today. Result still not what it should be.
@@ -113,6 +111,20 @@
 **Thoughts:** After some while I noticed I just forgot some css to make it work...
 
 **Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
+
+
+### Day 12: Januari 16, 2017
+
+**Today's Progress**: Today was not a good day, too tired.. Going to sleep well tonight and coming back tomorrow for more progress.
+
+**Duration:** 40min
+
+**Thoughts:** Need some sleep
+
+**Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
+
+
+
 ------------
 
 # Logbook Template
