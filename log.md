@@ -124,6 +124,16 @@
 **Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
 
 
+### Day 13: Januari 17, 2017
+
+**Today's Progress**: Experimented with html5 canvas. Tried to create a record using canvas. [First approach](http://imgur.com/a/1PHus) looks nice.
+
+**Duration:** 1u30
+
+**Thoughts:** Canvas is less difficult than I thought. Still some complex stuff at some times. Going to look at it more tomorrow.
+
+**Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
+
 
 ------------
 
