@@ -135,6 +135,19 @@
 **Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
 
 
+
+### Day 14: Januari 18, 2017
+
+**Today's Progress**: Today experimented with [mo.js](http://mojs.io/). 
+
+**Duration:** 2u
+
+**Thoughts:** Mojs is an awesome library for creating web animations. Still need to investigate it more for more complex animations.
+
+**Link to work:** [Mojs Codepen Demo - Rotating Vinyl](http://codepen.io/RobbertWolfs/pen/OWWpxJ)
+
+
+
 ------------
 
 # Logbook Template
