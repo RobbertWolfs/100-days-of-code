@@ -135,7 +135,6 @@
 **Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
 
 
-
 ### Day 14: Januari 18, 2017
 
 **Today's Progress**: Today experimented with [mo.js](http://mojs.io/). 
@@ -146,6 +145,16 @@
 
 **Link to work:** [Mojs Codepen Demo - Rotating Vinyl](http://codepen.io/RobbertWolfs/pen/OWWpxJ)
 
+
+### Day 15: Januari 19, 2017
+
+**Today's Progress**: Experimented more with [mo.js](http://mojs.io/). Demo is getting better.
+
+**Duration:** 1u15
+
+**Thoughts:** Found more documentation about mojs, so getting to know it a little better.
+
+**Link to work:** [Mojs Codepen Updated Demo - Rotating Vinyl with buttons](http://codepen.io/RobbertWolfs/pen/NdpPoN)
 
 
 ------------
