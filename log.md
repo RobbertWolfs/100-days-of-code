@@ -157,6 +157,17 @@
 **Link to work:** [Mojs Codepen Updated Demo - Rotating Vinyl with buttons](http://codepen.io/RobbertWolfs/pen/NdpPoN)
 
 
+### Day 16: Januari 22, 2017
+
+**Today's Progress**: Had a very busy weekend so had to skip 2 days.. Also today was not a very good day.. Did not make very much progress.. Only did some css improvements
+
+**Duration:** 1u
+
+**Thoughts:** Have to get back into shape.. Missing two days was not a good idea..
+
+**Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
+
+
 ------------
 
 # Logbook Template
