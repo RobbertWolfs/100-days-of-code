@@ -168,6 +168,15 @@
 **Link to work:** [Record Player](https://github.com/RobbertWolfs/record-player)
 
 
+### Day 17: Januari 24, 2017
+
+**Today's Progress**: Had to skip yesterday. Today was about getting to know VueJS components better by reading more about it in the docs.
+
+**Duration:** 1u
+
+**Thoughts:** Still have to read more about it.
+
+
 ------------
 
 # Logbook Template
