@@ -177,6 +177,13 @@
 **Thoughts:** Still have to read more about it.
 
 
+### Day 18: Januari 25, 2017
+
+**Today's Progress**: Today was more about reading the docs about components. Learned more about prop validation, custom events between parent-child components and slots.
+
+**Duration:** 1u
+
+**Thoughts:** Had difficulties understanding scoped slots. Have to read more about this to fully understand it.
 ------------
 
 # Logbook Template
