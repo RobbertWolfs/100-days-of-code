@@ -184,6 +184,16 @@
 **Duration:** 1u
 
 **Thoughts:** Had difficulties understanding scoped slots. Have to read more about this to fully understand it.
+
+
+### Day 19: Januari 27, 2017
+
+**Today's Progress**: Had to skip yesterday because of a late night event from work. Today was about finishing the docs about the VueJS essentials. Finished the section about components. Going to start with the advanced section tomorrow!
+
+**Duration:** 45min
+
+**Thoughts:** Getting to know VueJS a little better now that I know the essentials. Excited to see what the advanced stuff is about. 
+
 ------------
 
 # Logbook Template
