@@ -194,6 +194,15 @@
 
 **Thoughts:** Getting to know VueJS a little better now that I know the essentials. Excited to see what the advanced stuff is about. 
 
+
+### Day 20: Januari 30, 2017
+
+**Today's Progress**: Today learned a lot more about reactivity in VueJS.
+
+**Duration:** 45min
+
+**Thoughts:** Those advanced stuff of VueJS is very interessting. Tomorrow going to read more about transition effects. Also have to get back into my daily routing, because I noticed I have to many "skip" days :( 
+
 ------------
 
 # Logbook Template
