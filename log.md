@@ -203,6 +203,15 @@
 
 **Thoughts:** Those advanced stuff of VueJS is very interessting. Tomorrow going to read more about transition effects. Also have to get back into my daily routing, because I noticed I have to many "skip" days :( 
 
+
+### Day 21: Januari 31, 2017
+
+**Today's Progress**: Did some research on VueJS transitions.
+
+**Duration:** 1u20
+
+**Thoughts:** Those transtions look very neat and easy. Still have to do some more research and also some coding to fully understand it.
+
 ------------
 
 # Logbook Template
