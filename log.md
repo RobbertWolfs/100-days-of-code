@@ -212,6 +212,15 @@
 
 **Thoughts:** Those transtions look very neat and easy. Still have to do some more research and also some coding to fully understand it.
 
+
+### Day 22: Februari 1, 2017
+
+**Today's Progress**: Did some more research on transitions.
+
+**Duration:** 1u
+
+**Thoughts:** Looks like you can do so much fancy stuff with this. Have to give it a shot during coding.
+
 ------------
 
 # Logbook Template
