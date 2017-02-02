@@ -221,6 +221,15 @@
 
 **Thoughts:** Looks like you can do so much fancy stuff with this. Have to give it a shot during coding.
 
+
+### Day 23: Februari 2, 2017
+
+**Today's Progress**: Went some low-level today, learned a lot about the Render Function of VueJS.
+
+**Duration:** 1u
+
+**Thoughts:** When you want to create some custom stuff you can't do with just the e.g. component template, the render function is what you need. Need more knowledge of Vue and needs more maintenance but looks usefull for when you need it.
+
 ------------
 
 # Logbook Template
